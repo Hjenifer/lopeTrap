@@ -1,6 +1,7 @@
 Campaign 1 - Quishing
 
 
-This phase of the social engineering campaign involved analyzing campus trends and creating posters designed to attract students, guiding them toward a QR code promising rewards or benefits. Once the user scanned the QR code, LopeTrap would track the scan, collecting minimal user information, and then redirect the user to a non-malicious website to avoid arousing suspicion.
+This phase of the social engineering campaign involved analyzing campus trends and creating posters designed to attract students, guiding them toward a QR code promising rewards or benefits. 
+Once the user scanned the QR code, LopeTrap would track the scan, collecting minimal user information, and then redirect the user to a non-malicious website to avoid arousing suspicion.
 
 The following folder's purpose is to house any images used within the website. 
